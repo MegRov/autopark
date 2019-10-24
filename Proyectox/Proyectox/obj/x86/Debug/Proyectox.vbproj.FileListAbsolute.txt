@@ -1,0 +1,21 @@
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\bin\Debug\Proyectox.exe
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\bin\Debug\Proyectox.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\bin\Debug\Proyectox.xml
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Form1.resources
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Resources.resources
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\obj\x86\Debug\Proyectox.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\obj\x86\Debug\Proyectox.exe
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\obj\x86\Debug\Proyectox.xml
+C:\Users\Estudiante\Documents\Visual Studio 2010\Projects\Proyectox\Proyectox\obj\x86\Debug\Proyectox.pdb
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.exe
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.xml
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.pdb
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Form1.resources
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Resources.resources
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Registro.resources
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.vbproj.GenerateResource.Cache
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\bin\Debug\Proyectox.exe
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\bin\Debug\Proyectox.pdb
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\bin\Debug\Proyectox.xml
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Proyect.resources
+C:\Users\Estudiante\Downloads\Proyectox\Proyectox\Proyectox\obj\x86\Debug\Proyectox.Factura.resources
